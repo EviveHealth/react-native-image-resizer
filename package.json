@@ -1,11 +1,12 @@
 {
-  "name": "react-native-image-resizer",
-  "version": "1.0.0",
+  "name": "react-native-image-resizer-ev",
+  "version": "1.1.0",
   "description": "Rescale local images with React Native",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/4ian/react-native-image-resizer.git"
   },
+  "registry": "http://mac-build-server.dev.evivehealth.com:4000/",
   "keywords": [
     "react-native",
     "react",
